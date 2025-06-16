@@ -69,6 +69,11 @@ Check out the working demo below:
 ---
 
 
-## 📧 **Contact**  
+## 📧 **Created by**
 
-For any queries or suggestions, reach out at thisisabhay.c@gmail.com  
+1. Abhay Chaudhary - 23BAI10760
+2. Rananjay Singh Chauhan - 23BAI10080
+3. Anugya Chaubey - 23BAI10550
+4. Harsh Damodar Pandit - 23BAI10772
+5. Tushar Kumar Tiwari - 23BAI10551
+6. Nidhi Joshi - 23BAI10551
