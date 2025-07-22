@@ -16,8 +16,7 @@ Video Anomaly Detection is all about spotting weird or unexpected stuff in video
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/LexViper/video-anomaly-detection.git
-   cd video-anomaly-detection
+   git clone https://github.com/maihun-rsc/AnoCheck-Anomaly-Detection.git
    ```
 
 2. **Install dependencies:**  
