@@ -70,7 +70,7 @@ Check out the working demo below:
 
 ## 📧 **Created by**
 
-1. [Abhay Chaudhary(https://github.com/LexViper/video-anomaly-detection)]
+1. [Abhay Chaudhary](https://github.com/LexViper/video-anomaly-detection)
 2. Rananjay Singh Chauhan
 3. Anugya Chaubey
 4. Harsh Damodar Pandit 
