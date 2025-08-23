@@ -70,10 +70,9 @@ Check out the working demo below:
 
 ## 📧 **Created by**
 
-1. Abhay Chaudhary - 23BAI10760
-   (uploaded on his GitHub as well. Link: https://github.com/LexViper/video-anomaly-detection)
-2. Rananjay Singh Chauhan - 23BAI10080 (me)
-3. Anugya Chaubey - 23BAI10550
-4. Harsh Damodar Pandit - 23BAI10772
-5. Tushar Kumar Tiwari - 23BAI10551
-6. Nidhi Joshi - 23BAI10572
+1. [Abhay Chaudhary(https://github.com/LexViper/video-anomaly-detection)]
+2. Rananjay Singh Chauhan
+3. Anugya Chaubey
+4. Harsh Damodar Pandit 
+5. Tushar Kumar Tiwari 
+6. Nidhi Joshi 
