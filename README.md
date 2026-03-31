@@ -69,4 +69,4 @@ Check out the working demo below:
 
 
 ## 📧 **Created by** 
-Rananjay Singh Chauhan
+- Rananjay Singh Chauhan
