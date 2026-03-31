@@ -68,4 +68,5 @@ Check out the working demo below:
 ---
 
 
-## 📧 **Created by:** Rananjay Singh Chauhan
+## 📧 **Created by** 
+Rananjay Singh Chauhan
