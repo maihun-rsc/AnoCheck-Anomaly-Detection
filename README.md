@@ -68,11 +68,4 @@ Check out the working demo below:
 ---
 
 
-## 📧 **Created by**
-
-1. [Abhay Chaudhary](https://github.com/LexViper/video-anomaly-detection)
-2. Rananjay Singh Chauhan
-3. Anugya Chaubey
-4. Harsh Damodar Pandit 
-5. Tushar Kumar Tiwari 
-6. Nidhi Joshi 
+## 📧 **Created by:** Rananjay Singh Chauhan
